@@ -1,11 +1,11 @@
 .low-usage {
-  color: green;
+  background-color: green;
 }
 
 .medium-usage {
-  color: orange;
+  background-color: orange;
 }
 
 .high-usage {
-  color: red;
+  background-color: red;
 }
